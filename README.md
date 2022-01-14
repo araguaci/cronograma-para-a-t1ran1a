@@ -1,4 +1,5 @@
-## Fase 1: Simule uma ameaça e crie medo. (Dezembro 2019-Março 2020)
+## Fase 1: Simule uma ameaça e crie medo
+(Dezembro 2019-Março 2020)
 
   [x] Matar dezenas de milhares de idosos.
   
@@ -10,7 +11,8 @@
   
   [x] Resultado, (quase) pânico geral
 
-## Fase 2: Semear os joios e a divisão. (Março 2020-Dezembro 2020)
+## Fase 2: Semear os joios e a divisão
+(Março 2020-Dezembro 2020)
 
   [x] Impor múltiplas medidas coercitivas desnecessárias, liberticidas e inconstitucionais.
   
@@ -35,7 +37,8 @@
   [x] Resultado, (quase) pânico geral.
 
 
-## Fase 3: Traga uma solução traiçoeira e mortal. (Dezembro 2020-Junho 2021)
+## Fase 3: Traga uma solução traiçoeira e mortal a longo prazo
+(Dezembro 2020-Junho 2021)
 
   [x] Ofereça uma vacina gratuita para todos.
   
@@ -57,7 +60,8 @@
   
   [x] Resultado, dúvidas e sentimentos de traição entre os vacinados, desânimo entre os oponentes.
 
-## Fase 4: Instale o Apartheid e o código QR. (Junho 2021-Outubro 2021)
+## Fase 4: Instale o Apartheid e o código QR
+(Junho 2021-Outubro 2021)
 
   [x] Plano voluntariamente para a escassez.
   
@@ -73,7 +77,8 @@
   
   [x] Resultado, primeira etapa do controle digital, empobrecimento dos adversários.
 
-## Fase 5: Estabelecer o caos e a lei marcial. (Novembro 2021-Março 2022)
+## Fase 5: Estabelecer o caos e a lei marcial
+(Novembro 2021-Março 2022)
 
   [x] Explorar a escassez de bens e alimentos.
   
@@ -99,7 +104,8 @@
   
   [ ] Resultado, segunda etapa do controle digital. Prisão ou remoção de opositores.
 
-## Fase 6: Anular as dívidas e desmaterializar o dinheiro. (Março de 2022 -Setembro de 2022)
+## Fase 6: Anular as dívidas e desmaterializar o dinheiro
+(Março de 2022 -Setembro de 2022)
 
   [ ] Desencadear o colapso econômico, financeiro e de ações, a falência dos bancos.
   
@@ -127,4 +133,4 @@
 
 
 
-Nem tudo ainda aconteceu, pois temos um Deus que protege os seus, mas em breve muita coisa vai de fato acontecer em todo o Mundo. Por isso é importante se preparar desde agora. 
+# Nem tudo ainda aconteceu, pois temos um Deus que protege os seus, mas em breve muita coisa vai de fato acontecer em todo o Mundo. Por isso é importante se preparar desde agora. 
