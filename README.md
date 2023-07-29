@@ -145,4 +145,4 @@ Março de 2022 -Setembro de 2022
 
 
 
-# Nem tudo ainda aconteceu, pois temos um Deus que protege os seus, mas em breve muita coisa vai de fato acontecer em todo o Mundo. Por isso é importante se preparar desde agora. 
+## Nem tudo aconteceu ainda, pois temos um Deus que protege os seus, mas em breve muita coisa vai de fato acontecer em todo o Mundo. Por isso é importante se preparar desde agora. 
