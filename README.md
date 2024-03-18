@@ -108,18 +108,18 @@ Novembro 2021-Março 2022
   
  - [x] Prender líderes da oposição.
    
- - [ ] Impor identidade digital a todos (QR code): Certidão de nascimento, documento de identidade, passaporte, carteira de motorista, cartão de seguro de saúde ...
+ - [x] Impor identidade digital a todos (QR code): Certidão de nascimento, documento de identidade, passaporte, carteira de motorista, cartão de seguro de saúde ...
   
- - [ ] Estabelecer lei marcial para derrotar a oposição.
+ - [x] Estabelecer lei marcial para derrotar a oposição.
   
- - [ ] Resultado, segunda etapa do controle digital. Prisão ou remoção de opositores.
+ - [x] Resultado, segunda etapa do controle digital. Prisão ou remoção de opositores.
 
 ## Fase 6: Anular as dívidas e desmaterializar o dinheiro
 ```
 Março de 2022 -Setembro de 2022
 ```
 
- - [ ] Desencadear o colapso econômico, financeiro e de ações, a falência dos bancos.
+ - [x] Desencadear o colapso econômico, financeiro e de ações, a falência dos bancos.
   
  - [ ] Resgatar as perdas dos bancos nas contas de seus clientes.
   
