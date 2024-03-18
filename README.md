@@ -1,4 +1,5 @@
 ## Fase 1: Simule uma ameaça e crie medo
+
 ```
 Dezembro 2019-Março 2020
 ```
@@ -14,6 +15,7 @@ Dezembro 2019-Março 2020
  - [x] Resultado, (quase) pânico geral
 
 ## Fase 2: Semear os joios e a divisão
+
 ```
 Março 2020-Dezembro 2020
 ```
@@ -42,6 +44,7 @@ Março 2020-Dezembro 2020
 
 
 ## Fase 3: Traga uma solução traiçoeira e mortal a longo prazo
+
 ```
 Dezembro 2020-Junho 2021
 ```
@@ -67,6 +70,7 @@ Dezembro 2020-Junho 2021
  - [x] Resultado, dúvidas e sentimentos de traição entre os vacinados, desânimo entre os oponentes.
 
 ## Fase 4: Instale o Apartheid e o código QR
+
 ```
 Junho 2021-Outubro 2021
 ```
@@ -86,6 +90,7 @@ Junho 2021-Outubro 2021
  - [x] Resultado, primeira etapa do controle digital, empobrecimento dos adversários.
 
 ## Fase 5: Estabelecer o caos e a lei marcial
+
 ```
 Novembro 2021-Março 2022
 ```
@@ -115,8 +120,9 @@ Novembro 2021-Março 2022
  - [x] Resultado, segunda etapa do controle digital. Prisão ou remoção de opositores.
 
 ## Fase 6: Anular as dívidas e desmaterializar o dinheiro
+
 ```
-Março de 2022 -Setembro de 2022
+Março de 2022 -Março de 2024
 ```
 
  - [x] Desencadear o colapso econômico, financeiro e de ações, a falência dos bancos.
